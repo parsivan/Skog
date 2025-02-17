@@ -5,11 +5,11 @@
   "version": "0.0.1-alpha",
   "permissions": [
     "sidePanel"
-  ]
+  ],
 
-  "side_panel": [
+  "side_panel": {
     "default_path": "sidepanel/sidepanel.html"
-  ]
+  }
  
 
 }
