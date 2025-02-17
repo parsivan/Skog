@@ -3,6 +3,7 @@
   "name": "Skog - Tree Tabs",
   "description": "Tabs in Tree diagram Style",
   "version": "0.0.1",
+  "minimum_chrome_version": "116",
   "background": {
     "service_worker": "service-worker.js"
   },
